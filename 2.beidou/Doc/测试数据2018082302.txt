@@ -1,0 +1,1121 @@
+DEBUG_START
+DEBUG_START
+DEBUG_START
+center->uart4 : EC01DD010103DFEB
+N:
+N:
+52 off
+N:
+N:
+N:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+uart1>>: $TXSQ30816.000,3609.598346,N,12029.515515,E?
+52 off
+>>uart1: $FKXXsuccess!
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+uart1>>: $TXSQ30921.000,3609.591569,N,12029.510923,E?
+52 off
+>>uart1: $FKXXsuccess!
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+uart1>>: $TXSQ31026.000,3609.591962,N,12029.510927,E?
+52 off
+>>uart1: $FKXXsuccess!
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+uart1>>: $TXSQ31131.000,3609.592092,N,12029.510836,E?
+52 off
+>>uart1: $FKXXsuccess!
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+DEBUG_START
+DEBUG_START
+DEBUG_START
+center->uart4 : EC01DD010103DFEB
+N:
+N:
+52 off
+N:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+A:
+A:
+A:
+A:
+A:
+52 off
+uart1>>: $TXSQ32030.000,3609.597211,N,12029.516308,E?
+>>uart1: $FKXXsuccess!
+A:
+A:
+A:
+>>uart1: $TXXXuart4->center: 0151010103
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+52 off
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+uart1>>: $TXSQ,
+>>uart1: $FKXXsuccess!
+center->uart4 : EC3C40010169042C0A0100E803F3030000000000003B003C00203004000100000000000000000000000000000001000100000000000000000000000000000000003FEB
+>>uart1: $TXXXOKuart4->center: 024001014F4B
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC3D600D01323031372D31
+center->uart4 : 322D32332030393A32373A34340D0AAE9E133C8C1B00002C05A94D1C3C561C00004D0592AE193C471C00006D05508D173C5C1C00008E050CEB
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D02BC74133C0F1C0000AF05A791163CF01B0000CF05B8231C3C521C0000F00543731D3C6F1C00001006B8231C3C5B1C00003106F27B1B3C691C0000520675021A3C681C000072062BEB
+uart1>>: $TXSQ¼t<<o52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D031EFE1A3C881C0000930649801A3C821C0000B4063BAA1A3C871C0000D406CD06193C801C0000F5063BAA1A3C941C0000150749801A3C9A1C0000360749801A3C9C1C0000570719EB
+uart1>>: $TXSQ?<?<€?52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0449801A3C9F1C000077073BAA1A3CA11C0000980749801A3CA31C0000B9073BAA1A3CA41C0000D9073BAA1A3CA21C0000FA073BAA1A3CA51C00001A083BAA1A3CA81C00003B0841EB
+uart1>>: $TXSQ€<?<??52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D052CD41A3CAC1C00005C083BAA1A3CA91C03007C0849801A3CA11C12009D083BAA1A3C981C3200BE083BAA1A3C8F1C6200DF083BAA1A3C8E1C9700FF083BAA1A3C8E1CC50020091EEB
+uart1>>: $TXSQ?<?<?2?52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D063BAA1A3C8F1CEC0041093BAA1A3C8E1C0C0161093BAA1A3C8F1C2C01820984D8193C6C1C4701A2096570143C601B5301C3091635183CAB1A5401E409EAB2183C8D1A5901040AE6EB
+uart1>>: $TXSQ?<?<lG?ep<`S?5<?T?ê²<?Y
+(
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D07DA20133CF6196301250A5E63173C8E196F01460AD313163C70197B01660AF0BF153C0D198601870AA791163CF8189001A70A7C0F173CF4189801C80A99BB163CF0189901E90AA1EB
+uart1>>: $TXSQ?<?c%
+^c<?oF
+?<p{f
+ð¿<??§‘<???|<???™»<???o
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D08B667163CF2189901090BD313163CF41899012A0BE2E9153CF51899014B0BF0BF153CF61899016C0B0D6C153CF61899018C0B0D6C153CF7189901AD0B0D6C153CF7189901CE0BADEB
+uart1>>: $TXSQ¶g<??	?<??*âé<??Kð¿<??ll<???l<???l<???c
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D091C42153CF7189901EE0B1C42153CF71899010F0C1C42153CF71899012F0C1C42153CF7189901500C2B18153CF7189901710C2B18153CF6189901910C2B18153CF6189901B20C88EB
+uart1>>: $TXSQB<???B<??B<??/B<??P+<??q+<???+<???F
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0A2B18153CF6189901D30C2B18153CF6189901F30C2B18153CF5189901140D2B18153CF5189901340D2B18153CF5189901550D2B18153CF4189901
+center->uart4 : 960DF6EB
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0B2B18153CF4189901B70D2B18153CF4189901D80D2B18153CF4189901F80D2B18153CF4189901190E2B18153CF4189901390E2B18153CF31898015B0E2B18153CF21898017B0ED5EB
+uart1>>: $TXSQ<???+<???+<???+<??+<??9+<??[+<??{
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0C2B18153CF21898019C0EB667163CEB189801BC0EA791163CE9189801DD0EA791163CE8189801FE0EA791163CE81897011E0FA791163CE81896013F0F6D39173CF0189101600F95EB
+uart1>>: $TXSQ<???¶g<???§‘<???§‘<???§‘<??§‘<???m9<??`[
+52 on
+>>uart1: $FKXX success!
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0D68E81F3C0C197D01800F8143283C131A48
+center->uart4 : 01A10F52491D3CEC1B0601C10F2783233C671CB500E20FD68B213C8B1C620003102783233C911C180023109626253C841C0000441019EB
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : EC014201010340EB
+uart1>>: $TXSQ?
+>>uart1: $FKXXsuccess!
+center->uart4 : EC014201010340EB
+>>uart1: $TXXX `
+uart4->center: 0741010120600401030A0D
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC3D600D01323031372D31322D32332030393A32373A34340D0AAE9E133C8C1B00002C05A94D1C3C561C00004D0592AE193C471C00006D05508D173C5C1C00008E050CEB62617369632075706C6F6164206461746121200D0A
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart1>>: $TXSQ017-12-23 09:27:44
+®ž<?<V52 on
+>>uart1: $FKXX success!
+>>uart1: ?
+>>uart1: >>uart1: >>uart1: ?
+52 on
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿÿ
+>>uart1: >>uart1: ÿ>>uart1: ÿ?ðþþð
+>>uart1: >>uart1: >>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: ÿ?
+>>uart1: ÿÿ>>uart1: ÿ
+>>uart1: ÿþø
+>>uart1: >>uart1: >>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: >>uart1: >>uart1: >>uart1: ÿ>>uart1: >>uart1: >>uart1: ÿÿÿ
+>>uart1: >>uart1: ÿ
+52 on
+>>uart1: €
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: ÿ
+52 on
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ>>uart1: >>uart1: >>uart1: >>uart1: ÿÿ
+>>uart1: >>uart1: ÿ>>uart1: ÿ
+>>uart1: >>uart1: >>uart1: ÿ
+>>uart1: ?
+>>uart1: 52 on
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: €
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+52 on
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: àð
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: üüÿ
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+52 on
+>>uart1: >>uart1: ?
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: >>uart1: ÿ
+>>uart1: ?
+>>uart1: >>uart1: ?
+52 on
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: €
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+52 on
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: €
+>>uart1: >>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: 52 on
+>>uart1: 52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D031EFE1A3C881C0000930649801A3C821C0000B4063BAA1A3C871C0000D406CD06193C801C0000F5063BAA1A3C941C0000150749801A3C9A1C0000360749801A3C9C1C0000570719EB62617369632075706C6F6164206461746121200D0A
+uart1>>: $TXSQ?<?<€?52 on
+>>uart1: ?
+52 on
+52 on
+>>uart1: 52 on
+52 on
+52 on
+>>uart1: ÿ
+>>uart1: 52 on
+52 on
+>>uart1: 52 on
+52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0A2B18153CF6189901D30C2B18153CF6189901F30C2B18153CF5189901140D2B18153CF5189901340D2B18153CF5189901550D2B18153CF4189901760D2B18153CF4189901960DF6EB62617369632075706C6F6164206461746121200D0A
+uart1>>: $TXSQ<???+<???+<??+<??4+<??U+<??v+<???8
+52 on
+>>uart1: ?
+>>uart1: >>uart1: ÿ>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ÿÿ?
+>>uart1: €
+52 on
+52 on
+>>uart1: >>uart1: ÿ
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+>>uart1: 52 on
+>>uart1: ?
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0D68E81F3C0C197D01800F8143283C131A4801A10F52491D3CEC1B0601C10F2783233C671CB500E20FD68B213C8B1C620003102783233C911C180023109626253C841C0000441019EB62617369632075706C6F6164206461746121200D0A
+uart1>>: $TXSQ?<}€C(<H?RI<??'?<g?52 on
+>>uart1: >>uart1: >>uart1: ÿ
+>>uart1: ?
+>>uart1: ?þþ
+>>uart1: ÿ
+>>uart1: €
+52 on
+52 on
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: >>uart1: >>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: >>uart1: >>uart1: >>uart1: 52 on
+>>uart1: >>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ÿ
+52 on
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: >>uart1: >>uart1: ?
+>>uart1: ÿ
+52 on
+>>uart1: >>uart1: ÿ
+>>uart1: ?
+52 on
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+52 on
+>>uart1: >>uart1: >>uart1: ?
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: 52 on
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: >>uart1: >>uart1: ?
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: >>uart1: 52 on
+>>uart1: >>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ÿ?
+>>uart1: ÿ>>uart1: >>uart1: €
+>>uart1: >>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: þð
+>>uart1: ?
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+>>uart1: ?
+>>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+52 on
+>>uart1: >>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: >>uart1: üà>>uart1: ?
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : EC014201010340EB
+uart1>>: $TXSQcenter->uart4 : EC014201010340EB
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+uart1>>: $TXSQ0>>uart1: $FKXXsuccess!
+>>uart1: $TXXX `uart4->center: 05410101206002010D
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC3D600D01323031372D31322D32332030393A32373A34340D0AAE9E133C8C1B00002C05A94D1C3C561C00004D0592AE193C471C00006D05508D173C5C1C00008E050CEB62617369632075706C6F6164206461746121200D0A
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+52 on
+uart1>>: $TXSQ017-12-23 09:27:44
+®ž<?<V52 on
+>>uart1: $FKXX success!
+>>uart1: >>uart1: ?
+>>uart1: €
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: ÿ
+52 on
+>>uart1: >>uart1: ?
+52 on
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ÿ
+>>uart1: ÿ
+>>uart1: >>uart1: ?
+>>uart1: >>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: 52 on
+>>uart1: >>uart1: >>uart1: ?
+>>uart1: >>uart1: ÿ
+52 on
+>>uart1: ?
+>>uart1: ?
+>>uart1: ?
+>>uart1: 52 on
+>>uart1: >>uart1: >>uart1: ?
+>>uart1: ÿ
+52 on
+52 on
+52 on
+>>uart1: 52 on
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : 5472616E73666572205374617274210D0A
+center->uart4 : EC46600D0D68E81F3C0C197D01800F8143283C131A4801A10F52491D3CEC1B0601C10F2783233C671CB500E20FD68B213C8B1C620003102783233C911C180023109626253C841C0000441019EB62617369632075706C6F6164206461746121200D0A
+uart1>>: $TXSQ?<}€C(<H?RI<??'?<g?52 on
+52 on
+52 on
+52 on
+52 on
+>>uart1: 52 on
+52 on
+52 on
+>>uart1: 52 on
+>>uart1: >>uart1: ?
+>>uart1: >>uart1: >>uart1: 52 on
+>>uart1: >>uart1: ?
+52 on
+uart4->center: EC015201010350EB
+52 on
+center->uart4 : EC014201010340EB
+uart1>>: $TXSQ?
+>>uart1: $FKXXsuccess!
+center->uart4 : EC014201010340EB
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+uart1>>: $TXSQ0>>uart1: $FKXXsuccess!
+>>uart1: $TXXXuart4->center: 0143010103
+center->uart4 : EC014301010341EB
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+>>uart1: $TXXXA:
+uart1>>: $TXSQ34844.000,3609.591460,N,12029.502948,E?
+>>uart1: $FKXXsuccess!
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+>>uart1: $TXXXuart4->center: 00310101
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
+52 off
